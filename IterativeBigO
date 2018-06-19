@@ -1,0 +1,37 @@
+//ANAGRAMS
+
+//ANIMAL HIERARCHY
+
+//ARRAY DOUBLE
+O(n)
+-> For each additional piece of data, run through the map again.
+
+//BINARY REP
+O(log(n))
+-> For each additional piece of data, divide the number of required operations in half
+
+//COUNTING SHEEP
+O(n)
+-> For each additional piece of data, run through the for loop again.
+
+//FACTORIAL
+O(n)
+-> For each additional piece of data, run through the for loop again.
+
+//FIBONACCI
+O(n)
+-> For each additional piece of data, run through the for loop again.
+
+//Nth TRIANGLE NUMBER
+O(n)
+-> For each additional piece of data, run through the for loop again.
+
+//ORGANIZATION CHART
+
+//REVERSE STRING
+O(n)
+-> For each additional piece of data, run through the for loop again.
+
+//STRING SPLITTER
+O(n)
+-> For each additional piece of data, run through the for loop again.
