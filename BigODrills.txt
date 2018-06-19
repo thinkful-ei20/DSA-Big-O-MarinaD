@@ -1,0 +1,49 @@
+//EVEN or ODD
+O(1)
+-> No matter the size of value there is only
+ever one one operation.
+
+//ARE YOU HERE?
+O(n^2)
+-> For each additional piece of data, 
+we must run through the entire second array again.
+
+//DOUBLER
+O(n)
+-> For each additional piece of data, 
+we add a run through the loop.
+
+//NAIVE SEARCH
+O(n)
+-> Given the worst case where the item is at the very
+end of the array, each additional piece of data will
+require an additional run through the loop.
+
+//CREATING PAIRS *
+O(n)
+-> Although there is a nested for loop, any additional
+piece of data will only require one additional loop because
+the final element in the array never gets into the second for
+loop.
+
+//COMPUTING FIBONACCIS
+O(n)
+-> Since all operations within the for loop are of constant
+complexity, each additional piece of data requires one additional
+loop.
+
+//EFFICIENT SEARCH
+O(log(n))
+-> Since the algorithm cuts the array in half every
+iteration, it is more efficient than a linear solution, however
+additional pieces of data do increase the overall times one may
+have to cut the array.
+
+//RANDOM ELEMENT 
+O(1)
+-> No matter the length of the array, the solution always requires
+the same number of computations. 
+
+//IS IT PRIME?
+O(n)
+-> As the value goes up, there is one addition run through the loop.
