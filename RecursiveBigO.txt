@@ -1,0 +1,44 @@
+//ANAGRAMS
+
+
+//ANIMAL HIERARCHY
+
+
+//ARRAY DOUBLE
+O(n)
+-> Each additional piece of data requires one more operation.
+
+//BINARY REP
+O(log(n))
+-> Each additional increase in the number is halved every time the function runs,
+resulting in a slow increase.
+
+//COUNTING SHEEP
+O(n)
+-> Because the recursive input is linear (n-1), 
+each additional run through requires one more operation.
+
+//FACTORIAL
+O(n^2)
+-> Each additional piece of data, requires all of the previous plus the addition of it, resulting
+in a quadratic function.
+
+//FIBONACCI
+O(n^2)
+-> Each additional piece of data requires running the function through all previous peices again
+in order to get next sequence.
+
+//NTH TRIANGLE NUMBER
+O(n)
+-> Each additional number only requires one additional operation.
+
+//ORGANIZATION CHART
+
+
+//REVERSE STRING
+O(n)
+-> Each additional number only requires one additional operation.
+
+//STRING SPLITTER
+O(n)
+-> Each additional number only requires one additional operation.
